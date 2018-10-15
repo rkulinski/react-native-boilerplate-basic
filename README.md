@@ -11,7 +11,7 @@ This is a basic boilerplate for React Native apps.
 
 ## Versions
 
-- React Native 0.56.0
+- React Native 0.57.0
 
 ## Licence
 
